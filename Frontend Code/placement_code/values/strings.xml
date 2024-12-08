@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Placement Stats</string>
-    <string name="placement_stats">Placement Details</string>
-    <string name="package_stats">Package Stats</string>
-    <string name="recruited_students">Students Recruited in Each Company</string>
-</resources>
